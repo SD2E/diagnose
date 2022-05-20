@@ -1,0 +1,18 @@
+name: sd2_gda_diagnose
+channels:
+- defaults
+dependencies:
+    - python=3.9
+    - numpy
+    - scipy
+    - matplotlib=3.3
+    - pandas=1.3
+    - seaborn=0.11
+    - pytest
+    - pip
+
+    - pip:
+      - pytest-html
+      - pytest-timeout
+      - statsmodels
+      - agavepy

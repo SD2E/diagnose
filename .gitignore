@@ -1,0 +1,21 @@
+# IDE files
+.vscode/
+.idea/
+
+# test, install, run files
+pytest_data/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+.coverage
+
+# data files
+data/*
+!data/README.md
+!data/pytest/
+data/pytest/*
+!data/pytest/README.md
+!data/gitlab/
+data/gitlab/*
+!data/gitlab/README.md

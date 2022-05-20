@@ -1,0 +1,17 @@
+{
+  "sample_id": "sample_id",
+
+  "correctness_col": "score",
+
+  "group_ids":
+  ["group"],
+
+  "cat_vars":
+  ["catvar1",
+  "catvar2",
+  "catvar3"],
+
+  "cont_vars":
+  ["contvar1",
+  "contvar2"]
+}
